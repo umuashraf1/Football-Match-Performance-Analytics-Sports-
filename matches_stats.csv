@@ -1,0 +1,61 @@
+League,Country,Fixture ID,Home Team,Away Team,Date,Status,Home Goals,Away Goals
+Premier League,England,537785,Liverpool FC,AFC Bournemouth,2025-08-15T19:00:00Z,FINISHED,4.0,2.0
+Premier League,England,537786,Aston Villa FC,Newcastle United FC,2025-08-16T11:30:00Z,FINISHED,0.0,0.0
+Premier League,England,537787,Brighton & Hove Albion FC,Fulham FC,2025-08-16T14:00:00Z,FINISHED,1.0,1.0
+Premier League,England,537789,Sunderland AFC,West Ham United FC,2025-08-16T14:00:00Z,FINISHED,3.0,0.0
+Premier League,England,537790,Tottenham Hotspur FC,Burnley FC,2025-08-16T14:00:00Z,FINISHED,3.0,0.0
+Premier League,England,537791,Wolverhampton Wanderers FC,Manchester City FC,2025-08-16T16:30:00Z,FINISHED,0.0,4.0
+Premier League,England,537788,Nottingham Forest FC,Brentford FC,2025-08-17T13:00:00Z,FINISHED,3.0,1.0
+Premier League,England,537792,Chelsea FC,Crystal Palace FC,2025-08-17T13:00:00Z,FINISHED,0.0,0.0
+Premier League,England,537793,Manchester United FC,Arsenal FC,2025-08-17T15:30:00Z,FINISHED,0.0,1.0
+Premier League,England,537794,Leeds United FC,Everton FC,2025-08-18T19:00:00Z,FINISHED,1.0,0.0
+La Liga,Spain,544214,Girona FC,Rayo Vallecano de Madrid,2025-08-15T17:00:00Z,FINISHED,1.0,3.0
+La Liga,Spain,544220,Villarreal CF,Real Oviedo,2025-08-15T19:30:00Z,FINISHED,2.0,0.0
+La Liga,Spain,544216,RCD Mallorca,FC Barcelona,2025-08-16T17:30:00Z,FINISHED,0.0,3.0
+La Liga,Spain,544211,Deportivo Alavés,Levante UD,2025-08-16T19:30:00Z,FINISHED,2.0,1.0
+La Liga,Spain,544219,Valencia CF,Real Sociedad de Fútbol,2025-08-16T19:30:00Z,FINISHED,1.0,1.0
+La Liga,Spain,544213,RC Celta de Vigo,Getafe CF,2025-08-17T15:00:00Z,FINISHED,0.0,2.0
+La Liga,Spain,544212,Athletic Club,Sevilla FC,2025-08-17T17:30:00Z,FINISHED,3.0,2.0
+La Liga,Spain,544215,RCD Espanyol de Barcelona,Club Atlético de Madrid,2025-08-17T19:30:00Z,FINISHED,2.0,1.0
+La Liga,Spain,544217,Elche CF,Real Betis Balompié,2025-08-18T19:00:00Z,FINISHED,1.0,1.0
+La Liga,Spain,544218,Real Madrid CF,CA Osasuna,2025-08-19T19:00:00Z,FINISHED,1.0,0.0
+Serie A,Italy,536819,Genoa CFC,US Lecce,2025-08-23T16:30:00Z,TIMED,,
+Serie A,Italy,536823,US Sassuolo Calcio,SSC Napoli,2025-08-23T16:30:00Z,TIMED,,
+Serie A,Italy,536815,AC Milan,US Cremonese,2025-08-23T18:45:00Z,TIMED,,
+Serie A,Italy,536816,AS Roma,Bologna FC 1909,2025-08-23T18:45:00Z,TIMED,,
+Serie A,Italy,536818,Cagliari Calcio,ACF Fiorentina,2025-08-24T16:30:00Z,TIMED,,
+Serie A,Italy,536820,Como 1907,SS Lazio,2025-08-24T16:30:00Z,TIMED,,
+Serie A,Italy,536817,Atalanta BC,AC Pisa 1909,2025-08-24T18:45:00Z,TIMED,,
+Serie A,Italy,536822,Juventus FC,Parma Calcio 1913,2025-08-24T18:45:00Z,TIMED,,
+Serie A,Italy,536824,Udinese Calcio,Hellas Verona FC,2025-08-25T16:30:00Z,TIMED,,
+Serie A,Italy,536821,FC Internazionale Milano,Torino FC,2025-08-25T18:45:00Z,TIMED,,
+Bundesliga,Germany,540406,FC Bayern München,RB Leipzig,2025-08-22T18:30:00Z,FINISHED,6.0,0.0
+Bundesliga,Germany,540407,Eintracht Frankfurt,SV Werder Bremen,2025-08-23T13:30:00Z,FINISHED,4.0,1.0
+Bundesliga,Germany,540408,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2025-08-23T13:30:00Z,FINISHED,1.0,2.0
+Bundesliga,Germany,540409,SC Freiburg,FC Augsburg,2025-08-23T13:30:00Z,FINISHED,1.0,3.0
+Bundesliga,Germany,540412,1. FC Union Berlin,VfB Stuttgart,2025-08-23T13:30:00Z,FINISHED,2.0,1.0
+Bundesliga,Germany,540414,1. FC Heidenheim 1846,VfL Wolfsburg,2025-08-23T13:30:00Z,FINISHED,1.0,3.0
+Bundesliga,Germany,540413,FC St. Pauli 1910,Borussia Dortmund,2025-08-23T16:30:00Z,TIMED,,
+Bundesliga,Germany,540410,1. FSV Mainz 05,1. FC Köln,2025-08-24T13:30:00Z,TIMED,,
+Bundesliga,Germany,540411,Borussia Mönchengladbach,Hamburger SV,2025-08-24T15:30:00Z,TIMED,,
+Bundesliga,Germany,540423,Hamburger SV,FC St. Pauli 1910,2025-08-29T18:30:00Z,TIMED,,
+Ligue 1,France,542414,Stade Rennais FC 1901,Olympique de Marseille,2025-08-15T18:45:00Z,FINISHED,1.0,0.0
+Ligue 1,France,542411,Racing Club de Lens,Olympique Lyonnais,2025-08-16T15:00:00Z,FINISHED,0.0,1.0
+Ligue 1,France,542407,AS Monaco FC,Le Havre AC,2025-08-16T17:00:00Z,FINISHED,3.0,1.0
+Ligue 1,France,542410,OGC Nice,Toulouse FC,2025-08-16T19:05:00Z,FINISHED,0.0,1.0
+Ligue 1,France,542413,Stade Brestois 29,Lille OSC,2025-08-17T13:00:00Z,FINISHED,3.0,3.0
+Ligue 1,France,542406,AJ Auxerre,FC Lorient,2025-08-17T15:15:00Z,FINISHED,1.0,0.0
+Ligue 1,France,542408,FC Metz,RC Strasbourg Alsace,2025-08-17T15:15:00Z,FINISHED,0.0,1.0
+Ligue 1,France,542412,Angers SCO,Paris FC,2025-08-17T15:15:00Z,FINISHED,1.0,0.0
+Ligue 1,France,542409,FC Nantes,Paris Saint-Germain FC,2025-08-17T18:45:00Z,FINISHED,0.0,1.0
+Ligue 1,France,542422,Paris Saint-Germain FC,Angers SCO,2025-08-22T18:45:00Z,FINISHED,1.0,0.0
+Eredivisie,Netherlands,537441,Fortuna Sittard,Go Ahead Eagles,2025-08-08T18:00:00Z,FINISHED,2.0,2.0
+Eredivisie,Netherlands,537442,NEC,SBV Excelsior,2025-08-09T14:30:00Z,FINISHED,5.0,0.0
+Eredivisie,Netherlands,537443,Feyenoord Rotterdam,NAC Breda,2025-08-09T16:45:00Z,FINISHED,2.0,0.0
+Eredivisie,Netherlands,537444,SC Heerenveen,FC Volendam,2025-08-09T18:00:00Z,FINISHED,1.0,1.0
+Eredivisie,Netherlands,537445,PSV,Sparta Rotterdam,2025-08-09T19:00:00Z,FINISHED,6.0,1.0
+Eredivisie,Netherlands,537446,PEC Zwolle,FC Twente '65,2025-08-10T10:15:00Z,FINISHED,1.0,0.0
+Eredivisie,Netherlands,537447,AFC Ajax,Telstar 1963,2025-08-10T12:30:00Z,FINISHED,2.0,0.0
+Eredivisie,Netherlands,537448,AZ,FC Groningen,2025-08-10T12:30:00Z,FINISHED,4.0,1.0
+Eredivisie,Netherlands,537449,FC Utrecht,Heracles Almelo,2025-08-10T14:45:00Z,FINISHED,4.0,0.0
+Eredivisie,Netherlands,537450,Telstar 1963,PEC Zwolle,2025-08-15T18:00:00Z,FINISHED,0.0,2.0
