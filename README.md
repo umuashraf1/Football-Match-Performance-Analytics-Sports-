@@ -62,7 +62,8 @@ Shows the latest positions, points, wins, draws, and losses.
 
 Visualizes player performance scores based on position and activity.
 
-![Player Performance](../mnt/data/player%20performance%20board\(grafana\).png)
+![Player Performance]<img width="1288" height="565" alt="player performance board(grafana)" src="https://github.com/user-attachments/assets/bc759198-3d66-4ec5-bf2d-0930f08e0db2" />
+
 
 🔗 **Live Dashboard:** [Player Performance](http://localhost:3000/dashboard/snapshot/QUNYvMHTmIFlZVHgByyzxRzYLBFzfBJN)
 
@@ -72,7 +73,7 @@ Visualizes player performance scores based on position and activity.
 
 Displays probability-based match result predictions.
 
-![Match Outcome Predictions](../mnt/data/match%20outcome%20prediction%20\(grafana\).png)
+![Match Outcome Predictions]<img width="1304" height="572" alt="match outcome prediction (grafana)" src="https://github.com/user-attachments/assets/5b6727d0-0490-447f-bf5b-d2b33f56dc15" />
 
 🔗 **Live Dashboard:** [Match Outcome Predictions](http://localhost:3000/dashboard/snapshot/zc0SAllWsWBwUXNVxEULv4V2EteUxqKo)
 
