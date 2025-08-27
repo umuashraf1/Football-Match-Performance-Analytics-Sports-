@@ -51,7 +51,8 @@ Three primary dashboards were created:
 
 Shows the latest positions, points, wins, draws, and losses.
 
-![League Standings](../mnt/data/league%20standing%20\(grafana\).png)
+![League Standings](<img width="1366" height="768" alt="league standing (grafana)" src="https://github.com/user-attachments/assets/921ec4a2-9521-4c17-8b03-ee19144ab1af" />
+)
 
 🔗 **Live Dashboard:** [League Standings](http://localhost:3000/dashboard/snapshot/lvo56F1EunZMyQIvNjCb89H8KpgGA9rO)
 
