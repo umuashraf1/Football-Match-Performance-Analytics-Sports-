@@ -1,6 +1,11 @@
 # Football-Match-Performance-Analytics-Sports-
 This  repository  is on Capstone Project for group 3, Hagital Data Engineering Boothcamp
 
+## **Team**
+1. Ganiyat Adebayo
+2. Taiwo Ayeni
+3. Adetona Oluwasemilore
+
 ## **Project Overview**
 
 The **Football Match Performance Analytics** project focuses on building an end-to-end analytics pipeline for football matches. It involves extracting live match and player data, processing the data to generate insights, storing it in a structured database, and visualizing the results in **Grafana**.
@@ -88,7 +93,7 @@ Displays probability-based match result predictions.
 
 ---
 
-Challenges & Solutions
+## **Challenges and Solutions**
 1. API Limitations
 
 Issue: The initial API (API-Football) restricted access to detailed player stats due to free subscription limits.
