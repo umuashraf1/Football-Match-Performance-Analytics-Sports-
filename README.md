@@ -135,6 +135,6 @@ Collaboration is Key – Clear role assignments improved efficiency and avoided 
 ✅ Data pipeline working.
 ✅ PostgreSQL database live.
 ✅ Grafana dashboards created.
-🚀 Next phase: Advanced ML-driven analytics.
+🚀 Next phase: Authomate with Airflow.
 
 
